@@ -9,3 +9,4 @@ class ItdUsmBackendApplication
 fun main(args: Array<String>) {
     runApplication<ItdUsmBackendApplication>(*args)
 }
+
